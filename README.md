@@ -1,4 +1,4 @@
 # BITM-Day-1-
-BITM Sir Project;
+Topics: Java Basic 
 
-Topics: Java Basic
+BITM Sir Project
